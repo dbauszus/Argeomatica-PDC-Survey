@@ -1,0 +1,245 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MobileSurvey
+</name>
+</assembly>
+<members>
+<member name="P:MobileSurvey.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:MobileSurvey.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:MobileSurvey.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:MobileSurvey.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:MobileSurvey.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:MobileSurvey.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:MobileSurvey.WebMap.frmPanel">
+	<summary>
+frmPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.scriptManager">
+	<summary>
+scriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbSAS">
+	<summary>
+tbSAS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbNOW">
+	<summary>
+tbNOW control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.pnlPredio">
+	<summary>
+pnlPredio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.updatePanelPredio">
+	<summary>
+updatePanelPredio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.ASPsave">
+	<summary>
+ASPsave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.ddNivels">
+	<summary>
+ddNivels control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbDepartmentos">
+	<summary>
+tbDepartmentos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbTiendas">
+	<summary>
+tbTiendas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbGastronomia">
+	<summary>
+tbGastronomia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbHotel">
+	<summary>
+tbHotel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbInstitucional">
+	<summary>
+tbInstitucional control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.ddStatus">
+	<summary>
+ddStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbUnion">
+	<summary>
+tbUnion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbNotas">
+	<summary>
+tbNotas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbUltimoCambio">
+	<summary>
+tbUltimoCambio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbUsario">
+	<summary>
+tbUsario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbFID">
+	<summary>
+tbFID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.WebMap.tbFoto">
+	<summary>
+tbFoto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:MobileSurvey.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MobileSurvey.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MobileSurvey.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:MobileSurvey.Logon.LogonForm">
+	<summary>
+LogonForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.Logon.UserName">
+	<summary>
+UserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.Logon.Password">
+	<summary>
+Password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:MobileSurvey.Logon.InvalidCredentialsMessage">
+	<summary>
+InvalidCredentialsMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:MobileSurvey.proxy">
+	<summary>
+ adapted from: http://code.google.com/p/iisproxy
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,94 @@
+﻿html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    }
+
+#mask {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: ghostwhite;
+    opacity:0.5;
+    z-index:1000;
+    }
+
+#map {
+    height: 100%;
+    width: 100%;
+    }
+
+.fa {
+    color: #F0F;
+    }
+
+.btnMap {
+    z-index: 99;
+    position: fixed;
+    top: 20px;
+    }
+
+    #zoomLocation {
+        left: 20px;
+    }
+
+#save {
+    z-index: 99;
+    position: fixed;
+    display: none;
+    bottom: calc(50% + 20px);
+    left: 20px;
+    }
+
+.btnPnl {
+    z-index: 99;
+    position: fixed;
+    display: none;
+    }
+
+    #save {
+        bottom: calc(50% + 20px);
+        left: 20px;
+    }
+
+#pnlPredio {
+    position: absolute;
+    bottom: 0px;
+    width:100%;
+    height: 50%;
+    z-index: 999;
+    background-color: white;
+    display: none;
+    overflow: scroll;
+    }
+
+#pnlPredio table {
+    width: 100%;
+    padding: 10px;
+    font-family: Calibri;
+    font-size: 30px;
+    }
+
+#pnlPredio table input, #ddStatus, #ddNivels {
+    width: 100%;
+    font-family: Calibri;
+    font-size: 30px;
+    }
+
+#takeFoto {
+    width: 100%;
+    margin-top:10px;
+    font-size: 80px;
+    text-align: center;
+    }
+
+#imgCanvas {
+    padding: 10px;
+    }
+
+.olImageLoadError { 
+    display: none !important;
+}
